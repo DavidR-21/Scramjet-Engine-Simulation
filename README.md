@@ -1,2 +1,19 @@
-# Scramjet-Engine-Simulation
-Python-based scramjet model analyzing thrust and specific fuel consumption under varying conditions
+# Scramjet Engine Simulation
+
+This project models the performance of a scramjet engine using Python.
+
+## Overview
+A computational model was developed to analyze how key parameters influence thrust and specific fuel consumption (SFC).
+
+## Tools Used
+- Python
+- NumPy
+- Matplotlib
+
+## Key Features
+- Thrust and SFC calculations
+- Parametric analysis of engine performance
+- Visualization of performance trends
+
+## Results
+The model demonstrates how variations in inlet conditions and flow properties impact overall engine efficiency.
