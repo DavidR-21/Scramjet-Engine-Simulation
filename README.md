@@ -17,3 +17,7 @@ A computational model was developed to analyze how key parameters influence thru
 
 ## Results
 The model demonstrates how variations in inlet conditions and flow properties impact overall engine efficiency.
+
+## Report
+
+[View Full Report](report/project_report.pdf)
