@@ -1,4 +1,4 @@
-# Scramjet Engine Simulation
+# Turbojet Engine Simulation
 
 This project models the performance of a scramjet engine using Python.
 
